@@ -22,13 +22,13 @@ In any case, try to use it for good, and to help others.
 ````plaintext:
 project_name/
 ├── src/                  # Source code
-│   └── project_name/     # Main Python package
+│   └── project_name/     # Python package
 │       ├── __init__.py
 │       └── ...
 │
-├── resources/            # Static files, configurations, translations, etc.
-│
+├── assets/               # Static files, configurations, translations, etc.
 ├── tests/                # Unit tests
+├── logs/                 # Log files
 │
 ├── main.py               # Entry point or script for execution
 ├── VERSION               # Version of the project (to be filled by the developer)
@@ -36,7 +36,7 @@ project_name/
 ├── README.md             # Project overview and instructions
 ├── CHANGELOG.md          # Project changelog (optional)
 ├── CONTRIBUTING.md       # Contribution guidelines
-└── .template/            # Template metadata (version, changelog, etc.)
+└── .template/            # Template metadata (version, changelog, etc.). 
 ````
 
 ## 🚀 Getting Started

@@ -1,0 +1,11 @@
+{
+    "en": {
+        "GREETINGS": "Hello, World!",
+        "SPECIAL_GREETINGS": "Hello {name}!"
+        
+    },
+    "es": {
+        "GREETINGS": "Hola, Mundo!",
+        "SPECIAL_GREETINGS": "Hola {name}!"
+    }
+}
